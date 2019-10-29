@@ -1,0 +1,6 @@
+use_frameworks!
+target 'specs_Tests' do
+  pod 'specs', :path => '../'
+  
+  
+end

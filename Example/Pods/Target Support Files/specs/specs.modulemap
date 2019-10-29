@@ -1,0 +1,6 @@
+framework module specs {
+  umbrella header "specs-umbrella.h"
+
+  export *
+  module * { export * }
+}
