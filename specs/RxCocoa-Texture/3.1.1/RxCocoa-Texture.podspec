@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'RxSwift', '~> 5.0'
   s.dependency 'RxCocoa', '~> 5.0'
-  s.dependency 'Texture', '~> 2.8.1'
+  s.dependency 'Texture/Core', '~> 2.8.1'
 end
